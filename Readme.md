@@ -16,7 +16,7 @@ rostopic pub -1 /patlite/color "data: 4"
 6 - LIGHTBLUE
 7 - WHITE
 
-#/patlite/color_pattern
+# /patlite/color_pattern
 0 - OFF
 1 - SOLID
 2 - FLASHING
@@ -26,7 +26,7 @@ rostopic pub -1 /patlite/color "data: 4"
 6 - SINGLE FLASH + PAUSE
 7 - AURA GLOW
 
-#/patlite/buzzer
+# /patlite/buzzer
 0 - BUZZER_OFF
 1 - BUZZER_ON
 2 - Blow (continuous)
@@ -37,6 +37,6 @@ rostopic pub -1 /patlite/color "data: 4"
 6 - TWINKLE_TWINKLE
 7 - LONDON_BRIDGE
 
-#/patlite/buzzer_volume/
+# /patlite/buzzer_volume/
 0 - OFF
 1 - 10 VOLUME
