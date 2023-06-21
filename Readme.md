@@ -1,10 +1,12 @@
-#Launch
+# Launch
+
 roslaunch patlite_ros patlite.launch
 
-#Example Run
+# Example Run
+
 rostopic pub -1 /patlite/color "data: 4"
 
-#/patlite/color
+# /patlite/color
 0 - OFF
 1 - RED
 2 - GREEN
