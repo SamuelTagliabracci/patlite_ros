@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="patlite_ros" type="patlite_ros.py" name="patlite_node" output="screen">
+  </node>
+</launch>
